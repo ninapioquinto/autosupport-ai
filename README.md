@@ -1,10 +1,10 @@
-# ✉️ AutoSupport AI – AI-Powered Email Classification & Response System
+# AutoSupport AI – AI-Powered Email Classification & Response System
 
-**AutoSupport AI** is an intelligent, automated workflow designed to streamline customer support inboxes. It classifies incoming emails, routes them by priority, and sends accurate replies or escalates to a team—powered by GPT-4o and Relevance AI.
+**AutoSupport AI** is an intelligent, automated workflow designed to streamline customer support inboxes. It classifies incoming emails, routes them by priority, and sends accurate replies or escalates to a team powered by GPT-4o and Relevance AI.
 
 ---
 
-## 🔧 Features
+## Features
 
 - **Auto-fetch Incoming Emails**  
   Scans inbox for unread messages 
@@ -26,7 +26,7 @@
 
 ---
 
-## 💡 Tech Stack
+## Tech Stack
 
 - [OpenAI GPT-4o](https://openai.com/)
 - [Relevance AI](https://relevance.ai/)
@@ -35,21 +35,12 @@
 
 ---
 
-## ⚙️ Requirements
-
-- Make.com account  
-- OpenAI API key  
-- Slack workspace
-- Relevance AI project
-
----
-
-## 📂 Files
+## Files
 
 - `AutoSupport_AI.json`
 ---
 
-## 🧠 Use Cases
+## Use Cases
 
 - Ecommerce or DTC brands with growing support requests  
 - Agencies managing client support  
@@ -57,11 +48,10 @@
 
 ---
 
-## 🧑‍💻 Created by Nina Pioquinto
 
-Automation Systems Engineer |  
-Helping businesses scale smart systems with ai automation and crm solutions.
+## Created by Nina Pioquinto
 
-> Let’s build your custom system
+**Automation Systems Engineer**  
+Helping businesses scale with intelligent systems powered by AI and CRM automation.
 
----
+>  *Let’s build your custom system.*
